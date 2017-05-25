@@ -4,6 +4,6 @@ ZN >= 4.5.0
 
 # Links
 
-List: domainname/
-Add : domainname/add-book
-Edit: domainname/edit-book/{{id}}
+List: domainname/<br>
+Add : domainname/add-book<br>
+Edit: domainname/edit-book/{{id}}<br>
